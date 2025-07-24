@@ -50,12 +50,3 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
 </p>
-
-<br>
-
-<h3 align="left">Estatísticas do GitHub:</h3>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MaiaCaroline&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiaCaroline&layout=compact&langs_count=8&theme=dracula" alt="Linguagens Mais Usadas" />
-</p>
