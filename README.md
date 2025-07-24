@@ -8,11 +8,11 @@
 ---
 
 <p align="left">
-  Sou um(a) **Cientista de Dados** apaixonado(a) por extrair insights e construir modelos preditivos que resolvem problemas complexos. 📈
+  Sou Cientista de Dados em busca de extrair insights e construir modelos preditivos que resolvem problemas complexos. 📈
 </p>
 
 <p align="left">
-  Para transformar dados em produtos completos e interativos, estou expandindo minhas habilidades e atualmente cursando uma certificação em **Desenvolvimento Full-Stack**. Meu objetivo é unir a análise de dados com a engenharia de software para criar aplicações web inteligentes e `data-driven`.
+  Para transformar dados em produtos completos e interativos, estou expandindo minhas habilidades e atualmente cursando uma certificação em Desenvolvimento Full-Stack. Meu objetivo é unir a análise de dados com a engenharia de software para criar aplicações web inteligentes e `data-driven`.
 </p>
 
 - 🔭 Atualmente trabalhando em **Projeto de Data Science para segmentação inteligente de clientes B2B. Utilizando técnicas de clusterização (K-Means, DBSCAN) em Python para criar perfis de clientes, visando otimizar a jornada e a retenção. Stacks: Python, Pandas, Scikit-learn, Matplotlib, Power BI.**.
