@@ -15,10 +15,9 @@
   Para transformar dados em produtos completos e interativos, estou expandindo minhas habilidades e atualmente cursando uma certificação em Desenvolvimento Full-Stack. Meu objetivo é unir a análise de dados com a engenharia de software para criar aplicações web inteligentes e `data-driven`.
 </p>
 
-- 🔭 Atualmente trabalhando em **Projeto de Data Science para segmentação inteligente de clientes B2B. Utilizando técnicas de clusterização (K-Means, DBSCAN) em Python para criar perfis de clientes, visando otimizar a jornada e a retenção. Stacks: Python, Pandas, Scikit-learn, Matplotlib, Power BI.**.
 - 🌱 Estudando e aplicando **React, Node.js e arquitetura de APIs** para construir soluções de ponta a ponta.
 - 👯 Procuro colaborar em **projetos open-source que envolvam aplicações de IA, MLOps ou ferramentas de visualização de dados**.
-- 💬 Pergunte-me sobre **Python, SQL, Machine Learning, Estatística e Desenvolvimento Web**.
+- 💬 Pergunte-me sobre **Python, SQL, Machine Learning, Estatística**.
 - 📫 Como me contatar: **caroline_maia@live.com**
 
 <br>
