@@ -19,7 +19,6 @@
 - 🌱 Estudando e aplicando **React, Node.js e arquitetura de APIs** para construir soluções de ponta a ponta.
 - 👯 Procuro colaborar em **projetos open-source que envolvam aplicações de IA, MLOps ou ferramentas de visualização de dados**.
 - 💬 Pergunte-me sobre **Python, SQL, Machine Learning, Estatística**.
-- 📫 Como me contatar: **caroline_maia@live.com**
 
 <br>
 
