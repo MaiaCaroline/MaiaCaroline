@@ -8,7 +8,8 @@
 ---
 
 <p align="left">
-  Sou Cientista de Dados em busca de extrair insights e construir modelos preditivos que resolvem problemas complexos. 📈
+  Cientista de Dados focada em modelagem estatística e IA. Utilizo Python, SQL, Pandas e NumPy para transformar dados brutos em soluções estratégicas. Possuo experiência prática na gestão e validação de bancos de dados complexos, suportada por qualificações profissionais em Arquitetura de Analytics, Modelagem de Dados, Análise/Visualização e IA/Machine Learning.
+📈
 </p>
 
 <p align="left">
